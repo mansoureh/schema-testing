@@ -1,0 +1,5 @@
+{
+"ExperimentName": "experiment2",
+"SearchItems": ["josh","pizza"],
+"SearchDepth": "7"
+}
